@@ -1,0 +1,62 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="temp_results">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="cr_cat_type.category" msdata:Caption="category" type="xs:string" minOccurs="0" />
+                <xs:element name="cr_cat_type.cr_cat_type_id" msdata:Caption="cr cat type id" type="xs:string" minOccurs="0" />
+                <xs:element name="cr_cat_type.last_date" msdata:Caption="last date" msdata:DateTimeMode="Unspecified" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="cr_cat_type.last_func" msdata:Caption="last func" type="xs:string" minOccurs="0" />
+                <xs:element name="cr_cat_type.last_time" msdata:Caption="last time" type="xs:int" minOccurs="0" />
+                <xs:element name="cr_cat_type.last_user" msdata:Caption="last user" type="xs:string" minOccurs="0" />
+                <xs:element name="cr_cat_type.misc_char_1" msdata:Caption="misc char 1" type="xs:string" minOccurs="0" />
+                <xs:element name="cr_cat_type.misc_char_2" msdata:Caption="misc char 2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <temp_results>
+    <cr_cat_type.category>Day Permits</cr_cat_type.category>
+    <cr_cat_type.cr_cat_type_id>0000008604</cr_cat_type.cr_cat_type_id>
+    <cr_cat_type.last_func />
+    <cr_cat_type.last_time>0</cr_cat_type.last_time>
+    <cr_cat_type.last_user />
+    <cr_cat_type.misc_char_1 />
+    <cr_cat_type.misc_char_2 />
+  </temp_results>
+  <temp_results>
+    <cr_cat_type.category>Day Permits</cr_cat_type.category>
+    <cr_cat_type.cr_cat_type_id>0000008605</cr_cat_type.cr_cat_type_id>
+    <cr_cat_type.last_func />
+    <cr_cat_type.last_time>0</cr_cat_type.last_time>
+    <cr_cat_type.last_user />
+    <cr_cat_type.misc_char_1 />
+    <cr_cat_type.misc_char_2 />
+  </temp_results>
+  <temp_results>
+    <cr_cat_type.category>Dep</cr_cat_type.category>
+    <cr_cat_type.cr_cat_type_id>a73b9c4b-c70a-4091-9365-73cf60adaff7</cr_cat_type.cr_cat_type_id>
+    <cr_cat_type.last_date>2021-03-05T00:00:00</cr_cat_type.last_date>
+    <cr_cat_type.last_func>SSI.CR.Maintenance.mCategory</cr_cat_type.last_func>
+    <cr_cat_type.last_time>24939</cr_cat_type.last_time>
+    <cr_cat_type.last_user>VeymarMon</cr_cat_type.last_user>
+    <cr_cat_type.misc_char_1 />
+    <cr_cat_type.misc_char_2 />
+  </temp_results>
+  <temp_results>
+    <cr_cat_type.category>Dep</cr_cat_type.category>
+    <cr_cat_type.cr_cat_type_id>ab1ff53e-3f74-4f9a-98e4-a9e3b8f0a69f</cr_cat_type.cr_cat_type_id>
+    <cr_cat_type.last_date>2021-05-09T00:00:00</cr_cat_type.last_date>
+    <cr_cat_type.last_func>SSI.CR.Maintenance.mCategory</cr_cat_type.last_func>
+    <cr_cat_type.last_time>53122</cr_cat_type.last_time>
+    <cr_cat_type.last_user>VeymarMon</cr_cat_type.last_user>
+    <cr_cat_type.misc_char_1 />
+    <cr_cat_type.misc_char_2 />
+  </temp_results>
+</NewDataSet>
